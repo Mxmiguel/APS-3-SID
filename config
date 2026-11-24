@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Miguel Maester Ferreira
+	email = miguel.local@users.noreply.github.com
